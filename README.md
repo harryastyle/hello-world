@@ -1,2 +1,4 @@
 # hello-world
-Basic repository
+Hello, 
+
+I'm new to GitHub so doing the tutorial
